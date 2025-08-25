@@ -1,0 +1,1 @@
+This feature allows for dynamic move prediction based on historical game data, enhancing the AI's decision-making strategy.
